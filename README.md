@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 
+<img src="https://media.istockphoto.com/id/1406684959/pt/vetorial/modern-3d-illustration-of-young-man-programming-concept.jpg?s=612x612&w=0&k=20&c=rQD-RcNUGnXwetG8GPI2nXvaTlG4GlmZomtgJ3lvcTg=">
+
 <h1> Hello, welcome to Github!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 My profile:
