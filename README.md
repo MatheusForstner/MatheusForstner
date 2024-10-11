@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 
-<h1> Hello, welcome to Github! <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/16746979-freelancer-desenvolvedor-de-software-programador-ilustradorial-de-codificador-vetor.jpg" width="29px"></h1>
+<h1> Hello, welcome to Github!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 My profile:
 
