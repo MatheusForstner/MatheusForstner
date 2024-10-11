@@ -1,4 +1,4 @@
-<img alt="devs" height="600px" width="1000px" style="border-style: dashed;" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img alt="devs" height="600px" width="1000px" style="border-style: dashed;" src="https://static.vecteezy.com/ti/vetor-gratis/p1/16746979-freelancer-desenvolvedor-de-software-programador-ilustradorial-de-codificador-vetor.jpg">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 
