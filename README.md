@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 
 <div align="center">
-<img src="https://media.istockphoto.com/id/1406684959/pt/vetorial/modern-3d-illustration-of-young-man-programming-concept.jpg?s=612x612&w=0&k=20&c=rQD-RcNUGnXwetG8GPI2nXvaTlG4GlmZomtgJ3lvcTg=">
+<img src="[https://media.istockphoto.com/id/1406684959/pt/vetorial/modern-3d-illustration-of-young-man-programming-concept.jpg?s=612x612&w=0&k=20&c=rQD-RcNUGnXwetG8GPI2nXvaTlG4GlmZomtgJ3lvcTg=](https://www.brasilcode.com.br/wp-content/uploads/2020/04/programador-home-office-1.jpeg)">
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
