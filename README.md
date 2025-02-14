@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 
 <div align="center">
-<img src="[https://media.istockphoto.com/id/1406684959/pt/vetorial/modern-3d-illustration-of-young-man-programming-concept.jpg](https://www.agenciavulgata.com.br/wp-content/uploads/2020/09/0_KYagiDf6a-IPM3Lk_Easy-Resize.com_.jpg)">
+<img src="https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/1540176428901-750x430.jpg">
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
