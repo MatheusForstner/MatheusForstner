@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 
 <div align="center">
-<img src="https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/1540176428901-750x430.jpg">
+<img src="https://classic.exame.com/wp-content/uploads/2017/05/programador-senior-monsitj.jpg?quality=70&strip=info&w=1200">
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
